@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-	"php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "topthink/think-orm": "^1.2.4"
     },
     "autoload": {
         "psr-4": {
